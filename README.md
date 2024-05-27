@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Talent Tinaapi</h1>
+<h1 align="center">Hi 👋, I'm Talent</h1>
 <h3 align="center">I'm a QA Engineer with a flair for breaking things creatively, uncovering elusive bugs with a Sherlock Holmes-like intuition!</h3>
 
 - 📝 I regularly write articles on [https://dev.to/talenttinaapi](https://dev.to/talenttinaapi)
